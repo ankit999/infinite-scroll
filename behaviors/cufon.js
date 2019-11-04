@@ -1,6 +1,6 @@
 /*
 	--------------------------------
-	Infinite Scroll Behavior
+	Infinite Scroll Behavior change
 	Cufon Refresh
 	--------------------------------
 	+ https://github.com/paulirish/infinitescroll/
